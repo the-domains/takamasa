@@ -1,0 +1,28 @@
+name: takamasa
+favicon: null
+layout_spectrum: 0.8248047439847142
+typography_spectrum: 0.6524001536890864
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3437821548432112
+  lightness: 0.08330016117542982
+  saturation: 0.19527501869015396
+  rhythmicContrast: 0.1320702820084989
+purpose: []
