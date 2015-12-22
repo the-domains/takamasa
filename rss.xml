@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[takamasa]]></title>
         <description><![CDATA[takamasa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/takamasa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 06:09:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 06:16:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/takamasa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[dfsadfa]]></title>
             <description><![CDATA[<article><h1>dfsadfa</h1><p>久しぶりのサイトを作ってみた</p></article>]]></description>
-            <link>undefineddfsadfa/index.html</link>
+            <link>https://thegrid.ai/takamasa/dfsadfa/index.html</link>
             <guid isPermaLink="false">bdff3043-56d8-4710-8a20-16b33f05d15b</guid>
-            <pubDate>Tue, 22 Dec 2015 06:09:13 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 06:16:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
