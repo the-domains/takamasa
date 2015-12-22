@@ -1,28 +1,40 @@
-name: takamasa
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.17587
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.8248047439847142
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4375
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.75
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.195275018690154
+  lightness: 0.08330016117542982
+  brandStrength: 1
+  brandColors:
+    - '#E0D6C8'
+    - '#595455'
+    - '#656F88'
+    - '#1F2A32'
+    - '#A29B9A'
+  rhythmicContrast: 0.1320702820084989
+typography_spectrum: 0.6524001536890864
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: takamasa
